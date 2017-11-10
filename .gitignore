@@ -1,3 +1,4 @@
 _old
 mysql
 .env
+web/public/config.php
