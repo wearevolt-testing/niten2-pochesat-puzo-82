@@ -1,4 +1,4 @@
-version: '3.3'
+version: '3'
 services:
 
   web:
@@ -58,5 +58,5 @@ services:
     ports:
       - "8989:3306"
     volumes:
-      - "./data/db/mysql:/var/lib/mysql"
+      - "./mysql:/var/lib/mysql"
 
