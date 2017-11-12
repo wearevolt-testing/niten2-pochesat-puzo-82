@@ -1,12 +1,16 @@
 # Setup
+$ Template for deploy php sites
 
-### copy env
+### Copy env
 cp .env.sample .env
 
-### copy config.php
+### Copy config.php
 cp ./etc/config.php.sample ./web/public/config.php
 vim ./web/public/config.php
 and add login, password
 
-### run
+### Add php files in web
+
+### Run
 docker-compose -f docker-compose.prod.yml up -d
+
