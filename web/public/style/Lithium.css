@@ -993,7 +993,7 @@ body {
 	}
 
 .pun h2, #brdmenu {
-	background-color: #6c8a3f;
+	background-color: #0075eb;
 	color: #fff
 	}
 
@@ -1002,7 +1002,7 @@ body {
 	}
 
 .pun legend {
-	color: #6c8a3f
+	color: #0075eb
 	}
 
 .pun .blockmenu li.isactive a, #posterror li strong {
@@ -1042,11 +1042,11 @@ body {
 	}
 
 .pun .blockpost h2 {
-	background-color: #7ea34b
+	background-color: #0075eb
 	}
 
 .pun .blockpost h2 span.conr {
-	color: #b7d094
+	color: #0075eb
 	}
 
 .pun .postmsg ins, #punhelp samp ins {
@@ -1062,11 +1062,11 @@ body {
 ----------------------------------------------------------------*/
 
 .pun .box {
-	border-color: #6c8a3f
+	border-color: #0075eb
 	}
 
 .pun td, #brdfooter #modcontrols {
-	border-color: #cedeb9
+	border-color: #0075eb
 	}
 
 .pun th {
@@ -1090,19 +1090,19 @@ body {
 ----------------------------------------------------------------*/
 
 .pun a:link, .pun a:visited {
-	color: #638137
+	color: #0075eb
 	}
 
 .pun a:hover, .pun a:active, .pun a:focus {
-	color: #8eb653
+	color: #0075eb
 	}
 
 .pun .postmsg .postimg a:link img, .pun .postmsg .postimg a:visited img {
-	border-color: #638137;
+	border-color: #0075eb;
 	}
 
 .pun .postmsg .postimg a:hover img, .pun .postmsg .postimg a:active img, .pun .postmsg .postimg a:focus img {
-	border-color: #8eb653;
+	border-color: #0075eb;
 	}
 
 .pun h2 a:link, .pun h2 a:visited,
