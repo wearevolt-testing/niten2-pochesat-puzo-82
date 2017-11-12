@@ -3,4 +3,4 @@ mysql
 .env
 web/public/config.php
 web/public/.swp
-web/public/cache/
+web/public/cache/*.*
